@@ -64,3 +64,5 @@ security-audits/
 .mcp.json
 opencode.jsonc
 .cursor/
+
+bun.lock
