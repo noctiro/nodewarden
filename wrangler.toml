@@ -42,5 +42,5 @@ tag = "v2-backup-transfer-runner"
 new_sqlite_classes = [ "BackupTransferRunner" ]
 
 [[routes]]
-pattern = "vault.noctiro.moe/*"
-zone_name = "noctiro.moe"
+pattern = "vault.noctiro.moe"
+custom_domain = true
